@@ -7,3 +7,7 @@
 	editor = nvim
 [init]
 	defaultBranch = master
+[diff]
+	# https://link.springer.com/article/10.1007/s10664-019-09772-z
+	algorithm = histogram
+	tool = vimdiff
