@@ -1,0 +1,9 @@
+[user]
+	name = Conner Vercellino
+	email = connervercellino@gmail.com
+[color]
+	ui = true
+[core]
+	editor = nvim
+[init]
+	defaultBranch = master
