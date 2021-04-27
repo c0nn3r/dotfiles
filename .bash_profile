@@ -31,3 +31,6 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 alias dotfiles='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+alias vim=nvim
+alias vimdiff='nvim -d'
